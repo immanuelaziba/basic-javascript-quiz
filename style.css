@@ -40,7 +40,7 @@ h1 {
 }
 
 #choices button:hover {
-  background-color: #333333;
+  background-color: #333;
 }
 
 #next-btn, #score-container button {
@@ -54,5 +54,5 @@ h1 {
 }
 
 #next-btn:hover, #score-container button:hover {
-  background-color: #333333;
+  background-color: #333;
 }
